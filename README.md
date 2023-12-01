@@ -30,3 +30,31 @@ person_schema = Object(
 )
 
 ```
+
+
+
+JSON Output
+
+```
+{
+   "Witnesses":[
+      {
+         "first_name":"Alice",
+         "last_name":"Johnson"
+      },
+      {
+         "first_name":"John",
+         "last_name":"Smith"
+      },
+      {
+         "first_name":"Emily",
+         "last_name":"Adams"
+      },
+      {
+         "first_name":"James",
+         "last_name":"Wilson"
+      }
+   ]
+}
+
+```
