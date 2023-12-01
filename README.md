@@ -6,7 +6,7 @@ This code utilizes the Llama-2-7b Large Language Model to extract named entities
 
 Sample Schema
 
-`
+```
 person_schema = Object(
 
     id="Witnesses",
@@ -29,4 +29,4 @@ person_schema = Object(
     ]
 )
 
-`
+```
